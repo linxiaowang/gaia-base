@@ -3,5 +3,5 @@
 </script>
 
 <template>
-  <Header />
+  <article-list />
 </template>
